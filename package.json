@@ -1,0 +1,26 @@
+{
+  "name": "gulp-qunit-mocha-report-console",
+  "version": "1.0.0",
+  "description": "Output mocha report to console. Plugin for gulp-qunit-runner",
+  "main": "report-console.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hhru/gulp-qunit-mocha-report-console.git"
+  },
+  "keywords": [
+    "qunit",
+    "reporter",
+    "json",
+    "mocha-reporter"
+  ],
+  "author": "Nikita Mostovoy <xnimor@ya.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhru/gulp-qunit-mocha-report-console/issues"
+  },
+  "homepage": "https://github.com/hhru/gulp-qunit-mocha-report-console",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "gulp-util": "^3.0.7"
+  }
+}
