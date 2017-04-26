@@ -1,6 +1,6 @@
 {
-  "name": "gulp-qunit-mocha-report-console",
-  "version": "1.0.0",
+  "name": "@hh.ru/gulp-qunit-mocha-report-console",
+  "version": "1.0.1",
   "description": "Output mocha report to console. Plugin for gulp-qunit-runner",
   "main": "report-console.js",
   "repository": {
